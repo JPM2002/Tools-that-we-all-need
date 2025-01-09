@@ -21,7 +21,7 @@ def get_access_token():
         authority=authority,
         client_credential=CLIENT_SECRET,
     )
-
+#Need to add more scopes to access more data to the app.
     scopes = ["https://graph.microsoft.com/.default"]
     token_response = app.acquire_token_for_client(scopes=scopes)
     if "access_token" in token_response:
