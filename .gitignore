@@ -2,3 +2,4 @@ media
 .env
 *.mp3
 *.pdf
+node_modules
