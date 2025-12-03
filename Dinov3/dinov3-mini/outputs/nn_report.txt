@@ -1,0 +1,8 @@
+synthetic_0.jpg -> ['synthetic_4.jpg', 'synthetic_1.jpg', 'synthetic_5.jpg']
+synthetic_1.jpg -> ['synthetic_5.jpg', 'synthetic_0.jpg', 'synthetic_4.jpg']
+synthetic_2.jpg -> ['synthetic_6.jpg', 'synthetic_1.jpg', 'synthetic_5.jpg']
+synthetic_3.jpg -> ['synthetic_7.jpg', 'synthetic_0.jpg', 'synthetic_4.jpg']
+synthetic_4.jpg -> ['synthetic_0.jpg', 'synthetic_1.jpg', 'synthetic_5.jpg']
+synthetic_5.jpg -> ['synthetic_1.jpg', 'synthetic_0.jpg', 'synthetic_4.jpg']
+synthetic_6.jpg -> ['synthetic_2.jpg', 'synthetic_1.jpg', 'synthetic_5.jpg']
+synthetic_7.jpg -> ['synthetic_3.jpg', 'synthetic_0.jpg', 'synthetic_4.jpg']
