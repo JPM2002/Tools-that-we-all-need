@@ -3,3 +3,4 @@ media
 *.mp3
 *.pdf
 node_modules
+*venv
